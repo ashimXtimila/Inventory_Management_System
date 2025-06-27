@@ -1,0 +1,9 @@
+{
+    "name": "ashimtimila/project-code",
+    "type": "library",
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "phpoffice/phpspreadsheet": "^4.3"
+    },
+    "license": "MIT"
+}
